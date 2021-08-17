@@ -83,6 +83,7 @@ set(HWY_SOURCES
     hwy/targets.cc
     hwy/targets.h
     hwy/tests/test_util-inl.h
+    hwy/tests/test_util.cc
 )
 
 if (MSVC)
